@@ -118,6 +118,8 @@ Open science communities and organizations serve as platforms where researchers 
 
 Our objective is to shed light on how open science communities, particularly those in regions like Latin America, actively engage in implementing, teaching, and disseminating open practices and resources. Drawing upon experiences from Spanish-speaking communities of practice, we aim to collaborate with librarians to explore the specific challenges faced by these communities when dealing with data and other resources primarily available in English, which creates a language-based accessibility barrier. Through these discussions, we intend to address how open science practices can aid marginalized communities of scholars in overcoming obstacles related to language, socioeconomic status, and other factors, ultimately fostering a more inclusive scientific community.
 
+Importantly, the idea of "opening" science must go beyond the adoption of digital tools and platforms; it must also represent a shift in mindset—one that critically examines who is being left out and works proactively toward inclusion. Open science should recognize and value knowledge systems that exist beyond traditional academic settings, including ancestral, indigenous, and community-based knowledge. By embracing this broader understanding, open science becomes not just a method, but a pathway to epistemic justice and the democratization of knowledge production.
+
 
 
 
